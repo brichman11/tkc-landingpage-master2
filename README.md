@@ -1,1 +1,1 @@
-# tkc-landingpage-master2
+Credit: [this](https://blackrockdigital.github.io/startbootstrap-landing-page/)
